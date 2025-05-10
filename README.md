@@ -1,14 +1,20 @@
 <h1 align="center">Alura Store</h1>
 
-<p align="center">
-  Este projeto foi desenvolvido como parte de um desafio proposto pela plataforma <strong>Alura</strong>. O objetivo é ajudar o Senhor João, dono da rede Alura Store, a tomar uma decisão estratégica sobre qual loja vender para financiar um novo empreendimento.
-</p>
-<p align="center">
-  ⚠️ <strong>Atenção:</strong> Optei pela utilização do <strong>Plotly</strong> para a criação dos gráficos, com exceção de um teste feito com o <strong>Matplotlib</strong>. Portanto, ao visualizar apenas o arquivo no GitHub, sem executá-lo no Colab ou Jupyter Notebook, alguns gráficos não serão exibidos corretamente.
-</p>
-
-
-
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p>
+        Este projeto foi desenvolvido como parte de um desafio proposto pela plataforma <strong>Alura</strong>. O objetivo é ajudar o Senhor João, dono da rede Alura Store, a tomar uma decisão estratégica sobre qual loja vender para financiar um novo empreendimento.
+      </p>
+      <p>
+        <strong>Atenção:</strong> Optei pela utilização do <strong>Plotly</strong> para a criação dos gráficos, com exceção de um teste feito com o <strong>Matplotlib</strong>. Portanto, ao visualizar apenas o arquivo no GitHub, sem executá-lo no Colab ou Jupyter Notebook, alguns gráficos não serão exibidos corretamente.
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github.com/user-attachments/assets/32f3f507-b3a3-4834-9554-c77c13a347e1" alt="Alura Store Ilustração" width="200">
+    </td>
+  </tr>
+</table>
 <div align="center">
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
