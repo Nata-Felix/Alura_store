@@ -3,6 +3,11 @@
 <p align="center">
   Este projeto foi desenvolvido como parte de um desafio proposto pela plataforma <strong>Alura</strong>. O objetivo é ajudar o Senhor João, dono da rede Alura Store, a tomar uma decisão estratégica sobre qual loja vender para financiar um novo empreendimento.
 </p>
+<p align="center">
+  ⚠️ <strong>Atenção:</strong> Optei pela utilização do <strong>Plotly</strong> para a criação dos gráficos, com exceção de um teste feito com o <strong>Matplotlib</strong>. Portanto, ao visualizar apenas o arquivo no GitHub, sem executá-lo no Colab ou Jupyter Notebook, alguns gráficos não serão exibidos corretamente.
+</p>
+
+
 
 <div align="center">
 
