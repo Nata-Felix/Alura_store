@@ -40,16 +40,28 @@ Você pode rodar o projeto diretamente no Google Colab:
 
 ---
 
-## 📊 Visualizações do Projeto
+## 📈 Exemplos de Gráficos e Insights Obtidos
 
-> Abaixo, estão alguns exemplos das visualizações geradas durante a análise:
+Durante a análise, foram criados diversos gráficos que ajudaram a visualizar o desempenho de cada loja da Alura Store. Abaixo, estão alguns exemplos com os principais insights extraídos:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9e51d3ab-ea28-45df-9a76-6ee8f6ea5348" alt="Gráfico de desempenho das lojas" width="600">
-</p>
+### 🔹 Comparativo de Faturamento Mensal
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71a67324-5799-46ed-aa6b-857f3dcc2fd1" alt="Gráfico comparativo de faturamento" width="600">
+  <img src="https://github.com/user-attachments/assets/9e51d3ab-ea28-45df-9a76-6ee8f6ea5348" alt="Gráfico de Faturamento Mensal por Loja" width="600">
 </p>
+
+**Insight**: Foi possível observar que a Loja 4 teve o menor faturamento acumulado ao longo dos meses, apresentando baixa constância nas vendas e desempenho inferior em comparação com as demais.
 
 ---
+
+### 🔹 Avaliação Média dos Clientes por Loja
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71a67324-5799-46ed-aa6b-857f3dcc2fd1" alt="Gráfico de Avaliações Médias" width="600">
+</p>
+
+**Insight**: A Loja 4 também apresentou as piores avaliações por parte dos clientes, o que indica possíveis falhas no atendimento, na experiência de compra ou na qualidade dos produtos/serviços oferecidos.
+
+---
+
+Esses e outros indicadores sustentaram a recomendação final sobre qual loja deveria ser vendida para financiar o novo empreendimento do Senhor João.
