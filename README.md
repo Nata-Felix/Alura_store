@@ -25,6 +25,10 @@
 
 </div>
 
+## Visão geral da análise
+
+![Ranking de produtos por loja](Graficos/ranking.png)
+
 ---
 
 ## 📁 Estrutura do Projeto
